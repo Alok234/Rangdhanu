@@ -1,11 +1,13 @@
 *{
     margin: 0px;
 	padding: 0px;
+    
 }
 body{
     background-color: #7d7e4250;
     width: 100%;
     height: 100vh;
+    font-family: 'Ubuntu', sans-serif;;
 }
 
 
@@ -69,6 +71,7 @@ body{
     color: #693510d4;
     font-weight: 900;
     font-size: 18px;
+    word-spacing: 2px;
     
 }
 .home-section .home-text .home-btn:hover{
